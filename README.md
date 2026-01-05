@@ -25,8 +25,46 @@ A simple navigation bar with:
 
 ---
 
+---
+
+## 🚀 Features
+
+- Clean and minimal UI
+- Dropdown menu using CSS `:hover`
+- Easy to understand code
+- Beginner-friendly project
+- Lightweight and fast
+
+---
+
+## 📄 How to Run the Project
+
+1. Download or clone the repository
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
 ## 📂 Project Structure
 📁 Simple-Navigation-Menu
 │── menu.html
 │── menu.css
 └── README.md
+
+
+---
+
+## 🚀 Features
+
+- Clean and minimal UI
+- Dropdown menu using CSS `:hover`
+- Easy to understand code
+- Beginner-friendly project
+- Lightweight and fast
+
+---
+
+## 📄 How to Run the Project
+
+1. Download or clone the repository
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
