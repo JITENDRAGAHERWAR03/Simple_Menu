@@ -68,3 +68,37 @@ A simple navigation bar with:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
+Open menu.html in any web browser
+
+Hover over Category to see the dropdown menu
+
+🎯 Learning Outcomes
+
+HTML navigation structure (<nav>, <ul>, <li>)
+
+CSS positioning
+
+Dropdown menus without JavaScript
+
+Hover effects and styling
+
+🔮 Future Improvements
+
+Make the menu fully responsive (mobile friendly)
+
+Add animations
+
+Convert to navbar with JavaScript
+
+Add icons
+
+👨‍💻 Author
+
+Jitendra KanhaiyaSingh Gaherwar
+Beginner Web Developer | Python & Data Enthusiast
+
+📧 Email: jitendragaherwar03@gmail.com
+
+🌐 GitHub: https://github.com/JITENDRAGAHERWAR03
+
+⭐ If you like this project, don’t forget to star the repository!
