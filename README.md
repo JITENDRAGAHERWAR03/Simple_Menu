@@ -26,4 +26,7 @@ A simple navigation bar with:
 ---
 
 ## 📂 Project Structure
-
+📁 Simple-Navigation-Menu
+│── menu.html
+│── menu.css
+└── README.md
